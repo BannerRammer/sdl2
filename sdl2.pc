@@ -1,6 +1,6 @@
 # sdl pkg-config source file
 
-prefix=/usr/local
+prefix=/home/szaby/lera3d/extern
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib64
 includedir=${prefix}/include

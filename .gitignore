@@ -5,4 +5,5 @@ config.log
 config.status
 libtool
 sdl2-config
+sdl2.pc
 
